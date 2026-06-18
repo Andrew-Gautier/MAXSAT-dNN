@@ -1,0 +1,15 @@
+{
+  "epochs": 372,
+  "lr": 0.09792631320666931,
+  "batch_size": 64,
+  "grad_clip": 1.0374002226846466,
+  "eta_min": 1.4124773541345746e-05,
+  "patience": 18,
+  "weight_decay": 2.2183606783676392e-07,
+  "random_noise": 0.29445217773243193,
+  "warmup_epochs": 7,
+  "restart_period": 83,
+  "restart_samples": 67,
+  "device": "cpu",
+  "dtype": "torch.float32"
+}
